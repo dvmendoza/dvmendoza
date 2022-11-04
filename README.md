@@ -1,7 +1,8 @@
 [![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1)
 <h1 align="center">Hi 👋, I'm Daniel Mendoza</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA</h3>
-<img src="[/path/to/img.jpg](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)" align="right" alt="Coding" width="400">
+
+![8d621f66f551b6a39072473d52280ff0](https://user-images.githubusercontent.com/90613724/200019616-6253b0f0-08d9-4c70-aad1-ebf59600773a.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvmendoza&label=Profile%20views&color=0e75b6&style=flat" alt="dvmendoza" /> </p>
 
