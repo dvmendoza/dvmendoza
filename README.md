@@ -24,7 +24,7 @@
 - :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richlontos&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvmendoza&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=richlontos&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dvmeendoza&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -59,7 +59,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/richard-lontos/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/richlontos">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dvmendoza">
 		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdtrueQqt-wsYtp-UI1DutqtUbtrEeeKDtXAJE0U&s" width="40" height="40"></a>
       </div>
 
