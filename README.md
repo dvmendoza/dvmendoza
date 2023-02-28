@@ -57,7 +57,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/richard-lontos/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/daniel-mendoza-957323220/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/dvmendoza">
 		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdtrueQqt-wsYtp-UI1DutqtUbtrEeeKDtXAJE0U&s" width="40" height="40"></a>
